@@ -1,0 +1,42 @@
+﻿@model List<Category>
+
+<table class="table table-striped table-hover table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">Category Id</th>
+            <th scope="col">Category Name</th>
+            <th scope="col">Update</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>
+                    <a class="btn btn-sm btn-primary"
+                       asp-controller="Category"
+                       asp-action="Update"
+                       asp-route-id="@item.Id">
+                        Edit
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-sm btn-danger"
+                       asp-controller="Category"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id"
+                       onclick="return confirm('Are you sure you want to delete this category?');">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success mt-3" asp-controller="Category" asp-action="Create">
+    Add New Category
+</a>

@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\viewmodels\\todoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\viewmodels\\todoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\migrations\\20250601065550_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\migrations\\20250601065550_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\models\\enums\\prioritystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\models\\enums\\prioritystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\todolistwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\todolistwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\configurations\\todoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\configurations\\todoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Migrations\\20250601052342_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoListWebApplication\\Migrations\\20250601052342_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|c:\\users\\user pc\\source\\repos\\todolistwebsolution\\todolistwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A3FC8F-AAFD-4EB9-9F17-164266082CBF}|TodoListWebApplication\\TodoListWebApplication.csproj|solutionrelative:todolistwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:30:42.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T05:58:00.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Models\\Todo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:05:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T05:33:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\ViewModels\\TodoViewModels.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\ViewModels\\TodoViewModels.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\ViewModels\\TodoViewModels.cs",
+              "RelativeToolTip": "TodoListWebApplication\\ViewModels\\TodoViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:51:35.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\appsettings.json",
+              "RelativeToolTip": "TodoListWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T05:02:04.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T08:14:37.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:15:59.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:53:41.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T06:39:45.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:02:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:31:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T06:57:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TodoListWebApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:02:52.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PriorityStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Models\\Enums\\PriorityStatus.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Models\\Enums\\PriorityStatus.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Models\\Enums\\PriorityStatus.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Models\\Enums\\PriorityStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:22:14.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Configurations\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Configurations\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Configurations\\CategoryConfig.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Configurations\\CategoryConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:15:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Configurations\\TodoConfig.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Configurations\\TodoConfig.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Configurations\\TodoConfig.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Configurations\\TodoConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:12:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:19:10.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250601065550_second migration.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Migrations\\20250601065550_second migration.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Migrations\\20250601065550_second migration.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Migrations\\20250601065550_second migration.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Migrations\\20250601065550_second migration.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:55:51.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250601052342_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Migrations\\20250601052342_initial migration.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Migrations\\20250601052342_initial migration.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Migrations\\20250601052342_initial migration.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Migrations\\20250601052342_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:23:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TodoListWebApplication",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\TodoListWebApplication.csproj",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\TodoListWebApplication.csproj",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\TodoListWebApplication.csproj",
+              "RelativeToolTip": "TodoListWebApplication\\TodoListWebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T05:11:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:59:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Models\\Category.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:07:19.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\source\\repos\\TodoListWebSolution\\TodoListWebApplication\\Program.cs",
+              "RelativeToolTip": "TodoListWebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:03:08.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

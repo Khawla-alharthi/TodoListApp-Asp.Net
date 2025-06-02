@@ -1,0 +1,39 @@
+﻿@model List<Todo>
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold">Todo List</h2>
+        <a asp-controller="Todo" asp-action="Create" class="btn btn-primary">+ Create Todo</a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning text-center" role="alert">
+            <i class="bi bi-info-circle me-2"></i>No Todo's Yet — Start by adding one!
+        </div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm border-0 rounded-4">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text">@item.Description</p>
+                            <p class="card-text text-muted">
+                                <strong>Deadline:</strong> @item.Deadline.ToString("dd MMM yyyy")
+                            </p>
+                            <p class="card-text">
+                                <span class="badge bg-@(item.IsCompleted ? "success" : "secondary")">
+                                    @(item.IsCompleted ? "Completed" : "Pending")
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
